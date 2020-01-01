@@ -1,0 +1,54 @@
+#body {
+	background-color: EEE;
+	
+}	
+
+#container {
+		background-color: white;
+		width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+}	
+
+
+h1 {
+	margin: none;
+	background-color: red;
+	color: yellow;
+	text-align: centre;
+	
+}	
+
+h2	{
+	text-align: centre;
+	
+}
+
+#header {
+	text-align: centre;
+	
+}
+
+#main	{
+	width: 600px;
+	float: right;
+}
+
+#nav	{
+	width: 180px;
+	float: left;
+
+}
+
+#nav ul {
+	list-style-type: none;
+	padding:  0
+}
+
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: center;
+}
